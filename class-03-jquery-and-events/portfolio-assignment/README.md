@@ -12,7 +12,7 @@ Adapt these stories as necessary to fit how you want to build your portfolio.
     - Then use jQuery so when the tab is clicked, you hide all the sections, then reveal the associated section only.
   1. As a reader, I want the portfolio to use a nice color scheme, so that it stands out visually.
 
-## Stretch Goals:
+## Stretch Goals (not required):
   1. As a reader, I want project descriptions truncated to the first paragraph so that I can easily scroll though the whole list.
   1. As a reader, I want to click the "More" button so that I can expand the entire description.
   1. As a reader, I want projects filterable by category so that I can review just the things that interest me.
