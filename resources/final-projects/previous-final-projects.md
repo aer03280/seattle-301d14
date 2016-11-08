@@ -7,6 +7,9 @@ _[EBB Tracker on GitHub](https://github.com/CarrieShort/ebb-tracker/tree/862009d
 https://rep-findr.firebaseapp.com/  
 _[Rep Findr on GitHub](https://github.com/stefuhnee/rep-findr)_
 
+- Friend Or Freeze:  
+http://friend-or-freeze.herokuapp.com/
+
 - Inbox Health:  
 https://inbox-health.herokuapp.com/
 
